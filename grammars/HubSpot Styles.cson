@@ -1,0 +1,14 @@
+'fileTypes': [
+  'css'
+]
+'firstLineMatch': '^{% extends ["\'][^"\']+["\'] %}'
+'name': 'CSS (HubSpot Stylesheets)'
+'patterns': [
+  {
+    'include': 'source.hubl'
+  }
+  {
+    'include': 'source.css'
+  }
+]
+'scopeName': 'text.css.hubl'

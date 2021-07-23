@@ -1,0 +1,21 @@
+{
+  "bugs": {
+    "url": "https://github.com/samisund/atom-hubspot/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Syntax highlighting for HubSpot templates.",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/samisund/atom-hubspot#readme",
+  "license": "MIT",
+  "name": "atom-hubspot",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samisund/atom-hubspot.git"
+  },
+  "version": "0.0.1"
+}

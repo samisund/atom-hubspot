@@ -1,0 +1,16 @@
+'fileTypes': [
+  'html'
+]
+'firstLineMatch': '(^(?=<!--)([\s\S]*?)-->|^{% extends ["\'][^"\']+["\'] %})'
+'foldingStartMarker': '(<(?i:(head|table|tr|div|style|script|ul|ol|form|dl))\\b.*?>|{%\\s*(block|filter|for|if|macro|raw))'
+'foldingStopMarker': '(</(?i:(head|table|tr|div|style|script|ul|ol|form|dl))\\b.*?>|{%\\s*(endblock|endfilter|endfor|endif|endmacro|endraw)\\s*%})'
+'name': 'HTML (HubSpot Templates)'
+'patterns': [
+  {
+    'include': 'source.hubl'
+  }
+  {
+    'include': 'text.html.basic'
+  }
+]
+'scopeName': 'text.html.hubl'

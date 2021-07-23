@@ -1,0 +1,4 @@
+'.hubl':
+  'editor':
+    'commentStart': '{# '
+    'commentEnd': ' #}'
