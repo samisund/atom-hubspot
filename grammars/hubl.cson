@@ -1,4 +1,4 @@
-'fileTypes': ['html']
+'fileTypes': []
 'foldingStartMarker': '({%\\s*(block|filter|for|if|macro|raw))'
 'foldingStopMarker': '({%\\s*(endblock|endfilter|endfor|endif|endmacro|endraw)\\s*%})'
 'name': 'HubL'

@@ -1,7 +1,6 @@
 'fileTypes': [
   'css'
 ]
-'firstLineMatch': '^{% extends ["\'][^"\']+["\'] %}'
 'name': 'CSS (HubSpot Stylesheets)'
 'patterns': [
   {
