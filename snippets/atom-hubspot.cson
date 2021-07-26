@@ -1,4 +1,4 @@
-'.hubl':
+'.source.hubl':
   'Block':
     'prefix': 'block'
     'body': '{% block ${1:name} %}\n\t$2\n{% endblock %}'

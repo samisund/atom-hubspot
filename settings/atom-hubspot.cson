@@ -1,4 +1,7 @@
-'.hubl':
+'.source.hubl':
   'editor':
+    'editor.softWrap': true
+    'editor.showIndentGuide': true
+    'editor.autoIndent': true
     'commentStart': '{# '
     'commentEnd': ' #}'
